@@ -1,3 +1,5 @@
+This game involves dodging falling asteroids and picking up shards by moving left and right. The game was co-designed with Chloe Wu.
+
 Computing for All Pre-Appenticeship Program (PAP) [computingforall.org](https://computingforall.org)
 
 ## Level 1: Introduction to Computer Programming with Python 
